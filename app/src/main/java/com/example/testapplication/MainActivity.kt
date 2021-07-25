@@ -8,10 +8,17 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Toast.makeText(this, "Version_01", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
 
-        Toast.makeText(this, "Version_01", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
 
-        Toast.makeText(this, "Version_01", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_03", Toast.LENGTH_LONG).show()
     }
 }

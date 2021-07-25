@@ -8,17 +8,17 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
 
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
 
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_04", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_05", Toast.LENGTH_LONG).show()
     }
 }

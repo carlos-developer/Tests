@@ -69,11 +69,17 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "Version_main_2", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Version_main_2", Toast.LENGTH_LONG).show()
 
-    fun nothingmain3() {
-        Toast.makeText(this, "Version_19", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_19", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_19", Toast.LENGTH_LONG).show()
+    fun nothingVersion20() {
+        Toast.makeText(this, "Version_20", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_20", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_20", Toast.LENGTH_LONG).show()
     }
 
+    }
+
+    fun nothingVersion20() {
+        Toast.makeText(this, "Version_20", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_20", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_20", Toast.LENGTH_LONG).show()
     }
 }

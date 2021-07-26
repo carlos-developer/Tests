@@ -14,10 +14,10 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "Version_0.7", Toast.LENGTH_LONG).show()
 
         Toast.makeText(this, "Version_0.5", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_0.5", Toast.LENGTH_LONG).show()
-        Toast.makeText(this, "Version_0.5", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version main", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version main", Toast.LENGTH_LONG).show()
 
-        Toast.makeText(this, "Version_0.5", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_main", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Version_0.5", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Version_0.4", Toast.LENGTH_LONG).show()
 
@@ -25,6 +25,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun nothing() {
+        Toast.makeText(this, "Version_main_2", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Version_main_2", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Version_main", Toast.LENGTH_LONG).show()
     }
 

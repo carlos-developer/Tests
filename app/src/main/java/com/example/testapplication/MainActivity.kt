@@ -20,5 +20,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "Version_0.5", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Version_0.5", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Version_0.4", Toast.LENGTH_LONG).show()
+
+        Toast.makeText(this, "Version_main", Toast.LENGTH_LONG).show()
     }
 }
